@@ -34,7 +34,7 @@
 .bg-qu-1{
     /*background-image: url('../img/bg-1-1.jpg');*/
     min-height: 100%;
-    height: 55vh;
+    height: 60vh;
     margin-bottom: 0vh;
     text-align: center;
 
@@ -43,7 +43,7 @@
 .pt-1{
   text-transform: uppercase;
   line-height: 7vh;
-  font-size: 5vh;
+  font-size: 4vh;
   color:#000;
   font-weight: 700;
 }
@@ -51,7 +51,7 @@
 
 
 .pe-1{  
-    font-size: 5vh;
+    font-size: 4vh;
    /* text-transform:uppercase; */
     color:#000;
     line-height: 7vh;
@@ -66,14 +66,14 @@
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100%;
-    height: 55vh;
+    height: 60vh;
     margin-bottom: 0vh;
     text-align: center;
 
 }
 
 .pe-2{  
-    font-size: 5vh;
+    font-size: 4vh;
     font-weight: 1000;
     color:#000;
     line-height: 7vh;
@@ -92,7 +92,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100%;
-    height: 55vh;
+    height: 60vh;
     margin-bottom: 0vh;
     text-align: center;
 
@@ -100,7 +100,7 @@
 
 .pe-3{  
     color:#000;
-    font-size: 5vh;
+    font-size: 4vh;
     font-weight: 1000;
     line-height: 7vh;
 
@@ -114,7 +114,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100%;
-    height: 55vh;
+    height: 60vh;
     margin-bottom: 0vh;
     text-align: center;
 
@@ -122,7 +122,7 @@
 
 .pe-4{  
     color:#000;
-    font-size: 5vh;
+    font-size: 4vh;
     font-weight: 1000;
     line-height: 7vh;
 
@@ -135,7 +135,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100%;
-    height: 55vh;
+    height: 60vh;
     margin-bottom: 0vh;
     text-align: center;
 
@@ -143,7 +143,7 @@
 
 .pe-5{  
     color:#000;
-    font-size: 5vh;
+    font-size: 4vh;
     font-weight: 1000;
     line-height: 7vh;
 
@@ -157,7 +157,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100%;
-    height: 55vh;
+    height: 60vh;
     margin-bottom: 0vh;
     text-align: center;
 
@@ -165,7 +165,7 @@
 
 .pe-6{  
     color:#000;
-    font-size: 5vh;
+    font-size: 4vh;
     font-weight: 1000;
     line-height: 7vh;
 
@@ -179,7 +179,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100%;
-    height: 55vh;
+    height: 60vh;
     margin-bottom: 0vh;
     text-align: center;
 
@@ -187,7 +187,7 @@
 
 .pe-7{  
     color:#000;
-    font-size: 5vh;
+    font-size: 4vh;
     font-weight: 1000;
     /*text-transform:uppercase; */
     line-height: 7vh;
@@ -200,7 +200,7 @@
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100%;
-    height: 55vh;
+    height: 60vh;
     margin-bottom: 0vh;
     text-align: center;
 
@@ -208,7 +208,7 @@
 
 .pe-8{  
     color:#000;
-    font-size: 5vh;
+    font-size: 4vh;
     font-weight: 1000;
     line-height: 7vh;
 
